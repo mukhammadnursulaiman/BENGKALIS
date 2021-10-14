@@ -1,0 +1,33 @@
+var json_Niaga_19 = {
+"type": "FeatureCollection",
+"name": "Niaga_19",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": "Pasar Selatbaru", "REMARK": "Pusat Perdagangan Tradisional (Pasar Eceran/Grosir/Induk)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.216028003000076, 1.531906966000065 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Pasar MItra Telukpambang", "REMARK": "Pusat Perdagangan Tradisional (Pasar Eceran/Grosir/Induk)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.457874995000054, 1.471726996000029 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Pasar Loosd Penampi", "REMARK": "Pusat Perdagangan Tradisional (Pasar Eceran/Grosir/Induk)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.179030031000082, 1.44617803400007 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Pasar Belas Bantantengah", "REMARK": "Pusat Perdagangan Tradisional (Pasar Eceran/Grosir/Induk)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.271580994000033, 1.521188021000057 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "BNI Bantan", "REMARK": "Kantor Bank" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.215471026000046, 1.530983029000026 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "BRI Bengkalis", "REMARK": "Kantor Bank" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.107286976000069, 1.467965031000062 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Plaza Laksmana Bengkalis", "REMARK": "Pusat Perdagangan dan Niaga Kota (Mal/Toserba)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.107586963000074, 1.46764601600006 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Hotel Marina Bengkalis", "REMARK": "Hotel/Motel/Hostel/Losmen" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.107370962000061, 1.467090966000058 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Pasar Terubuk Bengkalis", "REMARK": "Pusat Perdagangan Tradisional (Pasar Eceran/Grosir/Induk)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.101136, 1.474609030000067 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Pasar Temeran", "REMARK": "Pusat Perdagangan Tradisional (Pasar Eceran/Grosir/Induk)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.215758023000035, 1.437727986000027 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Mandiri Syariah Bengkalis", "REMARK": "Kantor Bank" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.112463974000036, 1.471343022000042 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Hotel Wisata Damon", "REMARK": "Hotel/Motel/Hostel/Losmen" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.106324984000082, 1.470426963000023 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Hotel Panorama Bengkalis", "REMARK": "Hotel/Motel/Hostel/Losmen" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.110289960000046, 1.46982397000005 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Hotel Horizon Bengkalis", "REMARK": "Hotel/Motel/Hostel/Losmen" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.108431021000058, 1.469285013000047 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Gudang BULOG Damon", "REMARK": "Pusat Pergudangan/Terminal Peti Kemas/Cargo" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.10474197800005, 1.475801021000052 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Hotel Berlian Bengkalis", "REMARK": "Hotel/Motel/Hostel/Losmen" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.107028981000042, 1.46822101500004 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Riau Kepri", "REMARK": "Kantor Bank" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.110774015000061, 1.468704986000034 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Panin Bengkalis", "REMARK": "Kantor Bank" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.114308999000059, 1.475072969000053 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Omega Bengkalis", "REMARK": "Kantor Bank" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.114699009000049, 1.475727009000025 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Mitra Arta Mulya Bengkalis", "REMARK": "Kantor Bank" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.107370040000035, 1.472653029000071 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Mandiri Bengkalis", "REMARK": "Kantor Bank" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.11268902900008, 1.473042034000059 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "BRI Bengkalis", "REMARK": "Kantor Bank" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.111687978000077, 1.466078013000072 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "BRI Bengkalis", "REMARK": "Kantor Bank" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.111247005000052, 1.471091984000054 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "BNI Bengkalis", "REMARK": "Kantor Bank" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.110187030000077, 1.469511995000062 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Plaza Telkom Bengkalis", "REMARK": "Pusat Perdagangan dan Niaga Kota (Mal/Toserba)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.110830006000072, 1.466324022000038 ] ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Pasar Malam Teluklatak", "REMARK": "Pusat Perdagangan Tradisional (Pasar Eceran/Grosir/Induk)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 102.037209991000054, 1.541092023000033 ] ] } }
+]
+}
